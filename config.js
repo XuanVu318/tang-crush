@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'NgocBi à!',
-    introDesc: 'Cảm ơn bờ biển Hải Tiến đã 
-    'sản sinh ra một viên ngọc quý hiếm
-    'Ngày hôm trước là sinh nhật lãnh tụ vĩ đại
-    'Ngày hôm nay sinh nhật nóc nhà vĩ đại <3 <3'
+    introTitle: 'Babe à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Nhân dịp sinh nhật tuổi mới, có một món quà gửi đến ngừi iu 😙',
-    desc: 'Hãy lựa chọn món quà mà mình thích ',
-    btnYes: 'Món quà tinh thần <33',
-    btnNo: 'Một số tiền lớn :3',
-    question:'Đùa chút thui hãy nói ra mong ước tuổi mới của mình nào',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Vẫn cứ là thích anh <33',
+    btnNo: 'Không, Anh trai à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply:
-    mess: 'Uki' 'anh sẽ cố gắng lắm hết trong khả năng của mình ahihi',
-    messDesc: 'Xong xuôi dịch dã hãy đi ăn 1 bữa thật ngon để bù thôi nàooo.',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100000037980849'
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
