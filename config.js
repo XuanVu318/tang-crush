@@ -1,19 +1,19 @@
 const CONFIG = {
     introTitle: 'NgocBi à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    introDesc: `Sè ca chu cà ham mi ta <3
+    Cảm ơn bãi biển Hải Tiến
+    Đã sản sinh ra viên ngọc quý
+    Thêm tủi mới vui tươi`,
+    btnIntro: 'ahihi',
+    title: 'Chúc mừng sinh nhật 18 tuổi lần thứ n của Bi 😙',
+    desc: 'Hãy lựa chọn 1 món quá cho tuổi mới ',
+    btnYes: 'Chỉ cần anh là đủ <33',
+    btnNo: 'Không, cần thêm 1 chút món quà đắt đỏ :3',
+    question:'Đùa thui, hãy bật bị cho ông Mèo Noel món quá bạn thích nhé <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
+    reply: 'salang salang <33333333',
+    mess: 'Tuổi mới xinh tươi 🥰. Yêu thương nhiều hơn 😘😘',
+    messDesc: 'Hẹn 1 ngày hết dịch bù cho 1 bữa linh đình.',
+    btnAccept: 'Okiiiii lunn <3',
     messLink: 'https://www.facebook.com/meo.bi.9/'
 }
